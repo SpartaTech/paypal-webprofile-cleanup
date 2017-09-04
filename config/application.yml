@@ -1,0 +1,10 @@
+paypal: 
+  config:
+    file: file:config/paypal-config.properties
+    
+profiles-to-keep: cycle-fast-usa-web-profile,bicycle-buys-web-profile
+
+
+logging: 
+  level: 
+    root: INFO
